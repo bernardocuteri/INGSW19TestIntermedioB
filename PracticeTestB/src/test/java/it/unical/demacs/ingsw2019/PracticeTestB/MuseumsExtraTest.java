@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest  {
 	
 	
 	@Test(expected = RuntimeException.class)
