@@ -3,7 +3,7 @@ package it.unical.demacs.ingsw2019.PracticeTestB;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
     public static RandomMuseum randomMuseum;
     @BeforeClass
     public static void setUp(){
