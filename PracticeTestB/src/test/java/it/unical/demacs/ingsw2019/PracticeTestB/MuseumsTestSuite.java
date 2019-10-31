@@ -7,6 +7,6 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
 @SuiteClasses({MuseumsTest.class,MuseumsAdvancedTest.class})
-public class MuseumsTestSuite {
+public class MuseumsTestSuite { 
 
 }
