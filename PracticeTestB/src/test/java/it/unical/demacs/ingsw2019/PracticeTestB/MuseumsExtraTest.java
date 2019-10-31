@@ -5,7 +5,7 @@ import java.util.List;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class MuseumsAdvancedTest 
+public class MuseumsExtraTest 
 {
 	public static Museum m;
 	public static RandomMuseum rm;
