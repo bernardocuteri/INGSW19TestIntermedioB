@@ -3,7 +3,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class MuseumAdvancedTest {
+public class MuseumExtraTest {
 
 	private static RandomMuseum rm1;
 	private static RandomMuseum rm2;
