@@ -23,8 +23,8 @@ public class MuseumsTest {
 	public void differenzaAssoluta() {
 		RandomMuseum r=new RandomMuseum(1000);
 		RandomMuseum ran=new RandomMuseum(1000);
-		assertEquals(true,(r.getAverageRate()-ran.getAverageRate())<1.5);
-		
+		double num1=Math.abs(r.getAverageRate()-ran.getAverageRate());
+		assertEquals(true,num1<1.5);
 	}
 	
 }
