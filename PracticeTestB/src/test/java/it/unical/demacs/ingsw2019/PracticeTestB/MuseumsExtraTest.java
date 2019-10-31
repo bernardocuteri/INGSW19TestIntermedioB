@@ -6,7 +6,7 @@ import org.junit.Test;
 
 
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
 	
 	private RandomMuseum randomMuseum;
 	
