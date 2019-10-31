@@ -4,7 +4,7 @@ package it.unical.demacs.ingsw2019.PracticeTestB;
 
 import org.junit.Test;
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
 	
 	private static RandomMuseum rm = new RandomMuseum(0);
 	
