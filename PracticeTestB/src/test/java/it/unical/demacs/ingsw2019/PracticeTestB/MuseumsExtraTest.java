@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 import java.util.*;
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
 	
 	/*
 	 * un metodo che verifica che getAverageRate() sollevi un’eccezione su un museo senza opere
