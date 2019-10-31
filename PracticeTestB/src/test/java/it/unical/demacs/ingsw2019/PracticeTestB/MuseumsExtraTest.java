@@ -2,7 +2,7 @@ package it.unical.demacs.ingsw2019.PracticeTestB;
 
 import org.junit.Test;
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
 
 	// un metodo che verifica che getAverageRate() sollevi
 	// un’eccezione su un museo senza opere

@@ -7,6 +7,6 @@ import org.junit.runners.Suite.SuiteClasses;
 // che aggrega le classi MuseumsTest e MuseumsAdvancedTest in una test suite
 
 @RunWith(Suite.class)
-@SuiteClasses({ MuseumsTest.class, MuseumsAdvancedTest.class })
+@SuiteClasses({ MuseumsTest.class, MuseumsExtraTest.class })
 public class MuseumsTestSuite {
 }
