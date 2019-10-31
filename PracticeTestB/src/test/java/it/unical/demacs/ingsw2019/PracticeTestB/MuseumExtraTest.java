@@ -2,7 +2,7 @@ package it.unical.demacs.ingsw2019.PracticeTestB;
 
 import org.junit.Test;
 
-public class MuseumAdvancedTest {
+public class MuseumExtraTest {
 
 	@Test(expected = RuntimeException.class)
 	public void averageExceptionWork()
