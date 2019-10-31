@@ -10,5 +10,5 @@ public class LouvreMuseum extends Museum {
 				new ArtWork("Venus de Milo", "Alexandros of Antioch", 7),
 				new ArtWork("Psyche Revived by Cupid's Kiss", "	Antonio Canova", 8)));
 	}
-
+	
 }
