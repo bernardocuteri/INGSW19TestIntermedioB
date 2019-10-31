@@ -5,7 +5,7 @@ import java.lang.RuntimeException;
 
 import org.junit.Test;
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
 
 	@Test(expected = RuntimeException.class)
 	public void checkExceptionEmptyMuseumTest() {
