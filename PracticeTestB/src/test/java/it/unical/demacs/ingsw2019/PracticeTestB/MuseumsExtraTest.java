@@ -8,7 +8,7 @@ import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
 	
 	@Rule
 	public ExpectedException exceptionRule=ExpectedException.none();
