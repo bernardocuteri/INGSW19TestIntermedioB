@@ -7,7 +7,7 @@ import org.junit.runners.Suite.SuiteClasses;
 public class MuseumsTestSuite {
 	
 	@RunWith(value=Suite.class)
-	@SuiteClasses(value={MuseumsTestSuite.class, MuseumsAdvancedTest.class})
+	@SuiteClasses(value={MuseumsTestSuite.class, MuseumsExtraTest .class})
 	public class allTest {
 
 	}
