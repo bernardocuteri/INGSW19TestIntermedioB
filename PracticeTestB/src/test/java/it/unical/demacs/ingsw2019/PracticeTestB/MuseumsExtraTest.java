@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest  {
 	@Test  (expected = RuntimeException.class)
 	public void museoSenzaOpere() {
 		Museum m=new Museum("Philadelphia", null);
