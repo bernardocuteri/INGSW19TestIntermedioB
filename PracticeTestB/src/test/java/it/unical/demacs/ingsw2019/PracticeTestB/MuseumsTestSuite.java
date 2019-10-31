@@ -5,6 +5,6 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
-@SuiteClasses({MuseumsTest.class, MuseumsAdvancedTest.class})
+@SuiteClasses({MuseumsTest.class, MuseumsExtraTest.class})
 public class MuseumsTestSuite {
 }

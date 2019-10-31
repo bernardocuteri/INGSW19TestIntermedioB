@@ -4,9 +4,9 @@ import java.util.List;
 
 import org.junit.Test;
 
-public class MuseumsAdvancedTest {
+public class MuseumsExtraTest {
 
-	public MuseumsAdvancedTest() {
+	public MuseumsExtraTest() {
 		// TODO Auto-generated constructor stub
 	}
 	
